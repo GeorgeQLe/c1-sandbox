@@ -127,7 +127,7 @@ export default function OnboardingFlow() {
             onClick={() => form.reset(defaultValues)}
             type="button"
           >
-            <RotateCcw className="h-4 w-4" />
+            <RotateCcw className="size-4"/>
           </Button>
         </div>
       </CardHeader>
